@@ -1,7 +1,7 @@
-package com.example.dddlabs;
+package com.example.dddlabs.exception;
 
 public class BusinessException extends RuntimeException {
-    public BusinessException(String message){
+    public BusinessException(String message) {
         super(message);
     }
 }

@@ -1,4 +1,4 @@
-package com.example.dddlabs;
+package com.example.dddlabs.domain.avis.valueobjects;
 
 public enum StatusAvis {
     EN_ATTENTE,
@@ -7,3 +7,4 @@ public enum StatusAvis {
     CACHE,
     INVALIDE
 }
+
